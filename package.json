@@ -1,0 +1,19 @@
+{
+  "name": "laravel-elixir-flat-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": "NO",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "laravel-elixir": "^2.3.8"
+  }
+}
